@@ -1,5 +1,5 @@
 # codealpha_tasks
-📟 Web Calculator
+📟 Web Calculator:
 A fully functional web-based calculator built using HTML, CSS, and JavaScript. The application supports real-time calculations with a clean user interface and responsive layout.
 
 🚀 Features:
